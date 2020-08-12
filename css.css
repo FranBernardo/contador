@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: #E0B7B7;
+    text-align: center;
+}
+
+.posiçao{
+    text-align: center;
+   padding: 100px;    
+   
+}
+
+
+div#resposta{
+    padding: 50px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.cor{
+    background-color: #F7A1C4;
+    color: black;
+}
